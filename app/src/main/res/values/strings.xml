@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GenoaValet</string>
+    <string name="google_maps_api">AIzaSyAgsTtHjGzH_GnWG5q4EE-Cb1ZJdpEPktw</string>
+    <string-array name="Time">
+        <item>"Choose a Time"</item>
+        <item>"8:15AM"</item>
+        <item>"8:30AM"</item>
+        <item>"8:45AM"</item>
+        <item>"9:00AM"</item>
+        <item>"9:15AM"</item>
+        <item>"9:30AM"</item>
+        <item>"9:45AM"</item>
+        <item>"10:00AM"</item>
+        <item>"10:15AM"</item>
+        <item>"10:30AM"</item>
+        <item>"10:45AM"</item>
+        <item>"11:00AM"</item>
+        <item>"11:15AM"</item>
+        <item>"11:30AM"</item>
+        <item>"11:45AM"</item>
+        <item>"12:00PM"</item>
+        <item>"12:15PM"</item>
+        <item>"12:30PM"</item>
+        <item>"12:45PM"</item>
+        <item>"1:00PM"</item>
+        <item>"1:15PM"</item>
+        <item>"1:30PM"</item>
+        <item>"1:45PM"</item>
+        <item>"2:00PM"</item>
+        <item>"2:15PM"</item>
+        <item>"2:30PM"</item>
+        <item>"2:45PM"</item>
+        <item>"3:00PM"</item>
+        <item>"3:15PM"</item>
+        <item>"3:30PM"</item>
+        <item>"3:45PM"</item>
+        <item>"4:00PM"</item>
+        <item>"4:15PM"</item>
+        <item>"4:30PM"</item>
+        <item>"4:45PM"</item>
+        <item>"5:00PM"</item>
+    </string-array>
+</resources>

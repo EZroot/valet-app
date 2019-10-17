@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PermissionsActivity">
+
+    <Button
+        android:id="@+id/grantButton"
+        android:layout_width="369dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="192dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="24dp"
+        android:background="#B80F0F"
+        android:text="Grant Permission"
+        android:textAlignment="center"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="337dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="110dp"
+        android:layout_marginEnd="37dp"
+        android:layout_marginBottom="8dp"
+        android:lineSpacingExtra="8sp"
+        android:text="Genoa App requires Location and SMS privledges to function properly."
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/grantButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

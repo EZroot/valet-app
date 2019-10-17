@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026809485576",
+    "firebase_url": "https://valettapp-a5666.firebaseio.com",
+    "project_id": "valettapp-a5666",
+    "storage_bucket": "valettapp-a5666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026809485576:android:6a0aac9476dc967caff4bd",
+        "android_client_info": {
+          "package_name": "com.genoa.recyclenearby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026809485576-4er9vuseiq2urik4us98qdem0u4a8scm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.genoa.recyclenearby",
+            "certificate_hash": "c11809030e3ad6a516d3201f5e12f992cc3b3621"
+          }
+        },
+        {
+          "client_id": "1026809485576-ijf2bbcti5kofdhbd2su8kiovufh2dna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByl3GL1wiv69Q3wEslep12pnvBMHsuDHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026809485576-ijf2bbcti5kofdhbd2su8kiovufh2dna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
